@@ -1,4 +1,3 @@
-<script>
 function myFunction() {
   let text;
   let person = prompt("Please enter your name:", "Harry Potter");
@@ -9,4 +8,4 @@ function myFunction() {
   }
   document.getElementById("demo").innerHTML = text;
 }
-</script>
+
