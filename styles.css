@@ -1,4 +1,10 @@
 h1 {
+	text-size: 30px;
+	font-family: "Montserrat";
+	text-align: center;
+}
+
+header {
 	text-size: 50px;
 	font-family: "Montserrat";
 	text-align: center;
